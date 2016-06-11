@@ -10,8 +10,8 @@ CTEST(equation_suite, two_roots_test)
 	double x1;
 	double x2;
 
-	const double expected_x1 = -1;
-	const double expected_x2 = 4;
+	const double expected_x1 = 4;
+	const double expected_x2 = -1;
 
 	double got_return;
 	
